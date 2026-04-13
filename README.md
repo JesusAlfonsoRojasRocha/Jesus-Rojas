@@ -51,4 +51,4 @@ Sistema de gestión profesional para centros de estética diseñado para resolve
 ---
 
 ### 📫 Contacto
-- **Email:** [https://jr6956109@gmail.com]
+- 📧 **Email:** [jr6956109@gmail.com](mailto:jr6956109@gmail.com)
