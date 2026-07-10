@@ -1,6 +1,6 @@
 # Hola, soy Jesus Rojas 
 
-Estudiante de la carrera **Ingeniería Informática**, cursando el segundo año. Apasionado por el desarrollo de soluciones tecnológicas eficientes y seguras.
+Estudiante de la carrera **Ingeniería Informática**. Apasionado por el desarrollo de soluciones tecnológicas eficientes y seguras.
 ---
 
 ### Sobre mí
