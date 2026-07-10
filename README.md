@@ -35,7 +35,7 @@ Estudiante de la carrera **Ingeniería Informática**. Apasionado por el desarro
 Plataforma web integral para una empresa de salud basada en biometría.
 - **Características:** Interfaz moderna y *responsive*, sistema de validación de contactos mediante **Regex** y manipulación dinámica del DOM.
 - **Stack:** HTML5, CSS3 (Variables personalizadas), JavaScript.
-- - [Ver Repositorio](https://github.com/JesusAlfonsoRojasRocha/Jesus-Rojas/tree/main)
+- - [Ver Repositorio](https://github.com/JesusAlfonsoRojasRocha/Jesus-Rojas/tree/main/P%C3%A1gina%20de%20una%20empresa%20ficticia)
 
 #### PrimeStyle (En desarrollo)
 Sistema de gestión profesional para centros de estética, diseñado para resolver problemas de organización y ausentismo.
